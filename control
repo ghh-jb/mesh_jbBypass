@@ -1,0 +1,9 @@
+Package: c.ghh.meshhk
+Name: mesh_hk
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bypass jailbreak detection in DNEVNIK MESH. 
+Maintainer: untether
+Author: untether
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
